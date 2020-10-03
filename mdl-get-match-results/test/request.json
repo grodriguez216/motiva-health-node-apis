@@ -1,0 +1,9 @@
+{
+  "body": {},
+  "queryStringParameters": {
+    "budget": 5000,
+    "location": "all",
+    "reviews": 5,
+    "appointmentDate": "now"
+  }
+}

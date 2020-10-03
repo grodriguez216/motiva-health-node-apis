@@ -1,0 +1,16 @@
+{
+  "name": "mdl-get-match-results",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "sh scripts/test.sh",
+    "bundle": "sh scripts/bundle.sh"
+  },
+  "author": "grodriguez216",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0"
+  }
+}

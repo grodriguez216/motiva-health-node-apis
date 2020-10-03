@@ -1,0 +1,138 @@
+{
+  "statusCode": 200,
+  "message": [
+    {
+      "id": "20e24e5f-ba4a-4b72-b104-7d6d9e49c80d",
+      "clinicName": "Mock Clinic #1",
+      "avatarUrl": "https://www.myhealth.ph/wp-content/uploads/2018/03/The-Health-Clinic-of-the-Philippines.jpg",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae voluptatem molestias ratione placeat autem quasi, quam quo eum iure eius rem vitae at veniam amet culpa nam quibusdam ipsam sed.",
+      "chargeFollowUp": true,
+      "implantLowestVol": 200,
+      "implantHighestVol": 600,
+      "localAnesthetics": true,
+      "products": [],
+      "procedures": [
+        {
+          "id": 0,
+          "name": "3D designed breast augmentation",
+          "certified": true
+        },
+        {
+          "id": 1,
+          "name": "Breast augmentation",
+          "certified": true
+        },
+        {
+          "id": 2,
+          "name": "Breast reconstruction",
+          "certified": false
+        },
+        {
+          "id": 3,
+          "name": "Ergonomic breast augmentation",
+          "certified": true
+        },
+        {
+          "id": 4,
+          "name": "Mastopexy",
+          "certified": false
+        },
+        {
+          "id": 5,
+          "name": "Minimal scar breast augmentation",
+          "certified": true
+        },
+        {
+          "id": 6,
+          "name": "MotivaHybrid breast augmentation",
+          "certified": false
+        }
+      ],
+      "implantPlacement": [
+        {
+          "id": 0,
+          "name": "Subglandular"
+        },
+        {
+          "id": 1,
+          "name": "Submuscular"
+        },
+        {
+          "id": 2,
+          "name": "Dual plane"
+        }
+      ],
+      "photos": [
+        {
+          "id": "c214b110-d131-4b65-b1cd-225b5e3722cc",
+          "url": "https://www.myhealth.ph/wp-content/uploads/2019/08/alabang-1-1024x732.jpg"
+        },
+        {
+          "id": "13ca62de-3037-4cd9-83f7-d0c7f01c3038",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR87A3QeDwEOxoqbJ-dbX3tq6enGXSqoGRrew&usqp=CAU"
+        }
+      ],
+      "warranties": [
+        {
+          "id": "0",
+          "name": "Joy Warranty"
+        }
+      ]
+    },
+    {
+      "id": "69a2d491-a021-49fb-9ecf-aca0c5d653d7",
+      "clinicName": "Mock Clinic #2",
+      "avatarUrl": "https://app-motiva-interactive.s3-eu-west-1.amazonaws.com/assets/avatar.png",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae voluptatem molestias ratione placeat autem quasi, quam quo eum iure eius rem vitae at veniam amet culpa nam quibusdam ipsam sed.",
+      "chargeFollowUp": false,
+      "implantLowestVol": 300,
+      "implantHighestVol": 900,
+      "localAnesthetics": false,
+      "products": [],
+      "procedures": [
+        {
+          "id": 1,
+          "name": "Breast augmentation",
+          "certified": true
+        },
+        {
+          "id": 2,
+          "name": "Breast reconstruction",
+          "certified": false
+        },
+        {
+          "id": 3,
+          "name": "Ergonomic breast augmentation",
+          "certified": true
+        },
+        {
+          "id": 4,
+          "name": "Mastopexy",
+          "certified": false
+        }
+      ],
+      "implantPlacement": [
+        {
+          "id": 0,
+          "name": "Subglandular"
+        }
+      ],
+      "photos": [
+        {
+          "id": "4659b7c1-81a6-4bd6-9cc4-258a39a7218e",
+          "url": "https://www.dcms.uscg.mil/Portals/10/DOL/BaseNCR/img/clinicPhoto.png"
+        },
+        {
+          "id": "a28566d6-5a50-4b31-86f5-f27f4beb65d1",
+          "url": "https://www.rentonreporter.com/wp-content/uploads/2018/04/11368174_web1_180413-REN-healthclinic-TSR.jpg"
+        }
+      ],
+      "warranties": [
+        {
+          "id": "0",
+          "name": "Joy Warranty"
+        }
+      ]
+    }
+  ]
+}

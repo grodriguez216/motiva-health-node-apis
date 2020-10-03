@@ -1,0 +1,1 @@
+lambda-local --timeout 300 --lambda-path index.js --event-path test/request.json
